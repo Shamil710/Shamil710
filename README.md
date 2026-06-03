@@ -2,11 +2,13 @@
 
 ## Hi there 👋 It's me Shamil
 
-B.Tech - IT Student @ Ponjesly College of Engineering
-- 🔭 Here's my [Portfolio](https://www.devrenish.com), [Resume](https://www.devrenish.com/RenishR_Resume.pdf)
-- 🌱 I’m currently learning and guiding others in **DSA** and **Backend Development**  
-- 🎓 Gaining knowledge through **self-study** and **online courses** driven by my own interests  
-- 💼 Strong skills in **team collaboration** and **leadership**
+🎓 B.Tech - IT Student @ Ponjesly College of Engineering
+
+- 🔭 Here's my [Portfolio](https://personal-portfolio-steel-delta-68.vercel.app/) | [Resume](YOUR_RESUME_LINK)
+- 🌱 Currently learning and building projects with the **MERN Stack**
+- 💻 Focused on **JavaScript, React, Node.js, Express.js, and MongoDB**
+- 🎓 Learning through self-study, hands-on projects, and real-world projects
+- 🚀 Working towards becoming a professional Full Stack Developer
 - Social Presence:
   <br />
   [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/renish-r)
