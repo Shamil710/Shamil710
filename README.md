@@ -46,8 +46,8 @@
 
 <br /><br />
 
-![GitHub Stats](https://github-readme-stats-silk-delta-31.vercel.app/api?username=renish-r&show_icons=true&theme=dark&count_private=true&hide_border=true)
+![GitHub Stats](https://github-readme-stats-silk-delta-31.vercel.app/api?username=Shamil710&show_icons=true&theme=dark&count_private=true&hide_border=true)
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Renish-R?theme=dark&font=Marcellus&ext=heatmap)](https://leetcode.com/u/renish-r)
+
 
 [![Renish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=renish-r&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
