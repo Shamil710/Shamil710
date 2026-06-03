@@ -11,8 +11,8 @@
 - 🚀 Working towards becoming a professional Full Stack Developer
 - Social Presence:
   <br />
-  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/renish-r)
-  [<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />](https://leetcode.com/u/renish-r)
+  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/shamil-j)
+
   
  
 
@@ -30,8 +30,6 @@
   <img height="40" src="https://img.icons8.com/metro/52/ffffff/database.png"/>
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
   <img height="40" src="https://img.icons8.com/color/96/mongodb--v1.png"/>
-  <img height="40" src="https://img.icons8.com/office/96/spring-logo.png"/>
-  <img height="40" src="https://img.icons8.com/color/96/graphql.png"/>
 </p>
 
 ### IDE and Tools I Use
