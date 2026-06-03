@@ -4,7 +4,7 @@
 
 🎓 B.Tech - IT Student @ Ponjesly College of Engineering
 
-- 🔭 Here's my [Portfolio](https://personal-portfolio-steel-delta-68.vercel.app/) | [Resume](YOUR_RESUME_LINK)
+- 🔭 Here's my [Portfolio](https://personal-portfolio-steel-delta-68.vercel.app/) | [Resume](./ATS%20Resume.pdf)
 - 🌱 Currently learning and building projects with the **MERN Stack**
 - 💻 Focused on **JavaScript, React, Node.js, Express.js, and MongoDB**
 - 🎓 Learning through self-study, hands-on projects, and real-world projects
