@@ -19,8 +19,6 @@
 ### I code in
 <p align="left">
   <img height="50" src="https://img.icons8.com/color/96/java-coffee-cup-logo.png"/>
-  <img height="40" src="https://img.icons8.com/color/96/c-programming.png"/>
-  <img height="40" src="https://img.icons8.com/color/96/c-plus-plus-logo.png"/>
   <img height="40" src="https://img.icons8.com/color/96/html-5.png"/>
   <img height="40" src="https://img.icons8.com/color/96/css3.png"/>
   <img height="40" src="https://img.icons8.com/color/96/bootstrap.png"/>
@@ -35,7 +33,6 @@
 ### IDE and Tools I Use
 <p align="left">
   <img height="40" src="https://img.icons8.com/color/96/visual-studio-code-2019.png"/>
-  <img height="40" src="https://img.icons8.com/color/96/intellij-idea.png"/>
   <img height="40" src="https://img.icons8.com/color/96/git.png"/>
   <img height="40" src="https://img.icons8.com/officel/80/java-eclipse.png"/>
   <img height="40" src="https://img.icons8.com/color/96/google-firebase-console.png"/>
@@ -44,7 +41,6 @@
   <img height="40" src="https://img.icons8.com/3d-fluency/94/github-copilot.png"/>
   <img height="35" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/opencode-dark.png"/>
   <img height="40" src="https://img.icons8.com/fluency/96/claude-ai.png"/>
-  <img height="40" src="https://img.icons8.com/fluency/48/docker.png"/>
   <img height="40" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png"/>
 </p>
 
